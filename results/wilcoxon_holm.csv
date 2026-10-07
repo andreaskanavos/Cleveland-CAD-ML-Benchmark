@@ -1,0 +1,29 @@
+Model 1,Model 2,Wilcoxon W,Raw p,Holm-adjusted p
+Logistic Regression,Decision Tree,2.0,0.0078125,0.2109375
+Logistic Regression,k-Nearest Neighbours,16.5,0.291015625,1.0
+Logistic Regression,Random Forest,14.0,0.65625,1.0
+Logistic Regression,Gradient Boosting,6.0,0.203125,1.0
+Logistic Regression,Support Vector Machine,10.0,0.3046875,1.0
+Logistic Regression,Soft-Voting Ensemble,4.5,0.140625,1.0
+Logistic Regression,Multilayer Perceptron,8.0,0.71875,1.0
+Decision Tree,k-Nearest Neighbours,9.0,0.064453125,1.0
+Decision Tree,Random Forest,0.0,0.0078125,0.2109375
+Decision Tree,Gradient Boosting,5.0,0.09375,1.0
+Decision Tree,Support Vector Machine,3.0,0.078125,1.0
+Decision Tree,Soft-Voting Ensemble,0.0,0.0078125,0.2109375
+Decision Tree,Multilayer Perceptron,0.0,0.00390625,0.109375
+k-Nearest Neighbours,Random Forest,24.5,0.787109375,1.0
+k-Nearest Neighbours,Gradient Boosting,18.5,0.671875,1.0
+k-Nearest Neighbours,Support Vector Machine,18.0,1.0,1.0
+k-Nearest Neighbours,Soft-Voting Ensemble,16.0,0.8359375,1.0
+k-Nearest Neighbours,Multilayer Perceptron,14.5,0.3671875,1.0
+Random Forest,Gradient Boosting,4.0,0.125,1.0
+Random Forest,Support Vector Machine,13.0,0.53125,1.0
+Random Forest,Soft-Voting Ensemble,0.0,0.125,1.0
+Random Forest,Multilayer Perceptron,8.0,0.40625,1.0
+Gradient Boosting,Support Vector Machine,20.0,0.80078125,1.0
+Gradient Boosting,Soft-Voting Ensemble,8.0,0.71875,1.0
+Gradient Boosting,Multilayer Perceptron,4.5,0.125,1.0
+Support Vector Machine,Soft-Voting Ensemble,10.0,1.0,1.0
+Support Vector Machine,Multilayer Perceptron,3.5,0.1875,1.0
+Soft-Voting Ensemble,Multilayer Perceptron,4.0,0.125,1.0

@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the software and the original UCI Heart Disease dataset."
+title: "Cleveland CAD Machine-Learning Benchmark"
+type: software
+version: 1.0.0
+repository-code: "https://github.com/andreaskanavos/Cleveland-CAD-ML-Benchmark"
+abstract: "Code, data-processing workflow, model configurations, evaluation procedures, and reference outputs for machine-learning classification of coronary artery disease using the Cleveland Heart Disease dataset."
+keywords:
+  - machine learning
+  - coronary artery disease
+  - Cleveland Heart Disease dataset
+  - classification
+  - explainable artificial intelligence
+  - SHAP

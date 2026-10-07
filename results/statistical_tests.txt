@@ -1,0 +1,7 @@
+Friedman chi-square = 18.512162
+Friedman p = 0.009860999
+No pairwise comparison remained significant after Holm correction.
+Nested-CV k values by outer fold: 16, 5, 19, 6, 7, 4, 6, 7, 15, 4
+MLP early-stopping epochs by outer fold: 16, 22, 26, 58, 13, 15, 44, 17, 13, 20
+Holdout k selected by inner CV: 20
+Holdout MLP best epoch: 20
